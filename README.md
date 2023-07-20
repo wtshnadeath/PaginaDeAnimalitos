@@ -26,7 +26,7 @@ Durante el desarrollo de este proyecto, aprendí varias cosas nuevas y enfrenté
 
 ## Cómo ver el proyecto
 
-Puedes ver el proyecto clon de la interfaz principal de Google ingresando a este enlace: 
+Puedes ver el proyecto clon de la interfaz principal de Google ingresando a este enlace: https://paginadeanimalitosdewatashi.netlify.app/
 
 ## Contribuciones
 
