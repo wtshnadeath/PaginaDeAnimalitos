@@ -5,39 +5,60 @@ selector {
 }
 */ 
 
+
 body{
-    background-color: rgb(223, 195, 236);
+    background-color: rgb(229, 228, 208);
 }
 
 img{
-    
-    width:100px ;
-    height:100px;
+    display: block; /* Cambia display a block */
+    margin: auto; /* Centra horizontalmente */
+    width: 150px;
+    height: 190px;
 }
 
 p{
-    color: blueviolet;
+    color:rgb(10, 110, 110);
 }
 
-.p-pandas{
-    color: rgb(50, 50, 188);
-}
 
 .titulo{
     font-family: 'Source Code Pro', monospace;
-    font-size: 50px;
+    font-size: 55px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .indice {
+    font-size: 15px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;   
+    display: inline-block; 
+    margin-right: 15px; /* Espacio entre elementos li */
 }
 
+
 a{
-    color: rgb(203, 95, 152);
-    text-decoration: none;
+    padding: 0;
+    margin: 0 auto;   
+    display: inline-block; 
+    color: rgb(28, 29, 75);
+    text-align: center;
+    margin-right: 15px; /* Espacio entre elementos li */
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    color: rgb(241, 199, 19);
 }
